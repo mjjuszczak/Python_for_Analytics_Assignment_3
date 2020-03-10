@@ -1,12 +1,12 @@
 # Python_for_Analytics_Assignment_3
 This is a classroom module for python stuff
 
-##Installation 
+## Installation 
 
 1. python setup.py install
 2.nice
 
-##Requirements
+## Requirements
 *scipy
 *numpy
 *pandas
