@@ -4,8 +4,11 @@ This is a classroom module for python stuff
 ## Final Result
 
 Name: Matt 
-Surname: Juszczak 
+
+Surname: Juszczak
+
 Result: {'avocado': ['00', '01', '02'], 'tomato': ['00', '01', '02', '03']}
+
 Time to execute: 0.0002043999999159496
 
 ## Installation 
