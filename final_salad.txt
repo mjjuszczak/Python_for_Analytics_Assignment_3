@@ -1,0 +1,4 @@
+Name: Matt 
+Surname: Juszczak 
+Result: {'avocado': ['00', '01', '02'], 'tomato': ['00', '01', '02', '03']}
+Time to execute: 0.0002043999999159496
